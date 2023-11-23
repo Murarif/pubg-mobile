@@ -169,7 +169,7 @@ html {
 body {
   background-color: var(--bg-dark-purple);
   background-image: url("../images/body-bg.jpg");
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   color: var(--text-gainsboro);
   font-family: var(--fontFamily-oxanium);
   font-size: var(--fontSize-4);
